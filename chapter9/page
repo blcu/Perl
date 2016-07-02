@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>汉语国际教育技术研发中心|International R&amp;D Center for Chinese Education</title>
+		<meta name="keywords" content="汉语国际教育技术研发中心 - International R&amp;D Center for Chinese Education" />
+		<meta name="description" content="汉语国际教育技术研发中心 - International R&amp;D Center for Chinese Education" />
+		<link href="/skin/default/css/style.css" rel="stylesheet" type="text/css" />
+		<script type="text/javascript" src="/skin/default/js/common.js"></script>
+	</head>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9efae791ceb3f8129a5d4fedb5fded3c' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+	<body class="homepage">
+			<!--header on-->
+	<div id="header-container">
+		<div id="top-first-bar-container">
+			<div id="top-first-bar">
+				<div id="inner-container">
+				<a href="javascript:void(0)" onclick="SetHome(this,window.location)">加入收藏</a> | 
+				<a href="javascript:void(0)" onClick="addBookmark(document.title)">设为首页</a> | 
+				<a href="/e/web/?type=rss2&classid=0" target="_blank">RSS订阅</a> | 
+				<a href="http://nlp.blcu.edu.cn/others/nlp_atrium/?q=user/login&destination=dashboard" target="_blank">中心内网</a>
+				</div>
+			</div>
+			<div style="position:absolute;top:0px;left:0px"><a href="http://www.wangliang.com.cn" style="color:#447995">北京网站优化公司</a></div>
+		</div>
+		
+		<div class="clear-both"></div>
+		
+		<div id="top-second-bar">
+			<div id="logo-container"></div>
+		</div>
+		
+		<div class="clear-both"></div>
+		
+		<div id="top-nav-bar-container">
+			<div id="top-nav-bar">
+				<ul>
+					<li><a class="first-tab" href="/">首页</a></li>
+					<li class="nav-bar-tab-border"></li>
+					<li><a href="/content/introduction.html">人员介绍</a></li>
+					<li class="nav-bar-tab-border"></li>
+					<li><a href="/others/chinese123">网址大全</a></li>
+					<li class="nav-bar-tab-border"></li>
+					<li><a href="/tech-center/">技术与资源</a>
+						<ul>
+							<li><a href="/tech-center/core-techs/">核心技术</a></li>
+							<li><a href="/tech-center/digital-resource/">数字化资源</a></li>
+						</ul>
+					</li>
+					<li class="nav-bar-tab-border"></li>
+					<li><a href="/online-systems/">在线系统</a></li>
+					<li class="nav-bar-tab-border"></li>
+					<li><a href="/downloads">下载中心</a>
+						<ul>
+							<li><a href="/downloads/download-resources/">资源下载</a></li>
+							<li><a href="/downloads/download-tools/">工具下载</a></li>
+						</ul>
+					</li>
+					<li class="nav-bar-tab-border"></li>
+					<li><a href="/news">新闻中心</a></li>
+					<li class="nav-bar-tab-border"></li>
+					<li><a href="/content/links.html">友情链接</a></li>
+					<li class="nav-bar-tab-border"></li>
+					<li><a href="/content/contact-us.html">联系我们</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="clear-both"></div>
+	</div>
+	<div class="clear-both"></div>
+	<!--header off-->
+		<div id="page-container"><!-- BOF:page-container -->
+			<div id="index-intro">
+				<div id="index-intro-content">
+					<p>汉语国际教育技术研发中心（International R&amp;D Center for Chinese Education）立足北语，服务国家汉语国际教育事业，着力研发推进汉语国际教育发展的关键技术，开放资源和工具，在国内外引领汉语国际教育的技术发展。</p>
+					<p>经过多年发展，在自然语言处理、语音处理和计算机辅助语言教学等多个方面，积累了一系列汉语教学所需的核心技术、研发了多种软件和网络学习系统。</p>
+					<p class="text-align-right"><a href="/content/introduction.html">中心详细介绍...</a></p>
+				</div>
+			</div>
+			<div id="news-bar">
+				<div id="pic-marquee">
+					<script type="text/javascript">
+<!--
+ var interval_time=17;
+ var focus_width=475;
+ var focus_height=330;
+ var text_height=0;
+ var text_align="center";
+ var swf_height = focus_height+text_height;
+ var swfpath="/e/data/images/pixviewer.swf";
+ var swfpatha="/e/data/images/pixviewer.swf";
+ 
+ var pics="%2Fd%2Ffile%2Fnews%2Fcenter-news%2F2012-10-18%2F265363a05329b532b93abd0ec3cf50e7.jpg%7C%2Fd%2Ffile%2Fnews%2Fcenter-news%2F2012-08-29%2F94aa61925ae0bd5d26be9ec271f0aa6a.jpg%7C%2Fd%2Ffile%2Fnews%2Fcenter-news%2F2012-05-05%2Fe1c43acddc2da2244cc1df4cfac979e2.jpg%7C%2Fd%2Ffile%2Fnews%2Fcenter-news%2F2011-04-07%2F49d04640aa19a5640535e92225898231.jpg%7C%2Fd%2Ffile%2Fnews%2Fcenter-news%2F2010-11-14%2Ffb1512ef76ad77d32ec31f5e105c3e90.jpg%7C%2Fd%2Ffile%2Fnews%2Fcenter-news%2F2010-11-14%2Faf77d951575672a6a374b80c50cdec81.jpg";
+ var links="http%3A%2F%2Fnlp.blcu.edu.cn%2Fnscc2012%7Chttp%3A%2F%2Fnlp.blcu.edu.cn%2Fcontent%2Fintroduction.html%7Chttp%3A%2F%2Fnlp.blcu.edu.cn%2Fothers%2Fhistorical%2520computing%2F%7Chttp%3A%2F%2Fnlp.blcu.edu.cn%2Fothers%2Fchinese123%2Findex.php%7Chttp%3A%2F%2Fwww.46g.cn%2FOther%2FHSK%2Findex.php%7Chttp%3A%2F%2Fnlp.blcu.edu.cn%2Fothers%2Fcenter%2Fsys%2Fflash.php%3Fw%3D900%26h%3D600%26f%3Drenzi%2Fswf%2Fflextestxiezi.swf";
+ var texts="|||||";
+ 
+ document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="'+ focus_width +'" height="'+ swf_height +'">');
+ document.write('<param name="movie" value="'+swfpath+'"><param name="quality" value="high"><param name="bgcolor" value="#ffffff">');
+ document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
+ document.write('<param name="FlashVars" value="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'&text_align='+text_align+'&interval_time='+interval_time+'">');
+ document.write('<embed src="'+swfpath+'" wmode="opaque" FlashVars="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'&text_align='+text_align+'&interval_time='+interval_time+'" menu="false" bgcolor="#ffffff" quality="high" width="'+ focus_width +'" height="'+ swf_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
+ document.write('</object>');
+//-->
+</script>
+</div>
+				<div id="news-list">
+					<div id="news-list-title">研发中心动态</div>
+					<div id="news-list-content"><ul><li><a href="/news/center-news/2012-11-06/138.html" title="我中心师生与潘海华教授座谈(图文)">我中心师生与潘海华教授座谈(图文)</a> - 10-31</li><li><a href="/news/center-news/2012-10-29/137.html" title=" 2012年第二届全国文字与计算学术研讨会（NSCC2012）纪要(图文)"> 2012年第二届全国文字与计算学术研讨会（NSCC2012）</a> - 10-29</li><li><a href="/news/center-news/2012-10-29/136.html" title="第二届全国文字与计算学术研讨会在北语胜利召开(图文)">第二届全国文字与计算学术研讨会在北语胜利召开(</a> - 10-29</li><li><a href="http://nlp.blcu.edu.cn/nscc2012" title="第二届全国文字与计算学术研讨会开放注册(图文)">第二届全国文字与计算学术研讨会开放注册(图文)</a> - 10-18</li><li><a href="/news/technical-news/2012-09-21/134.html" title="本中心与高翻学院召开机器（机辅）翻译研讨会(图文)">本中心与高翻学院召开机器（机辅）翻译研讨会(图文)</a> - 09-21</li><li><a href="/news/technical-news/2012-09-05/133.html" title="“基于广义话题的汉语篇章结构”讲习班(图文)">“基于广义话题的汉语篇章结构”讲习班(图文)</a> - 09-02</li><li><a href="http://nlp.blcu.edu.cn/content/introduction.html" title="研发中心风采(图文)">研发中心风采(图文)</a> - 08-29</li><li><a href="/news/technical-news/2012-05-11/131.html" title="周有光先生诞辰106周年学术报告会(图文)">周有光先生诞辰106周年学术报告会(图文)</a> - 05-11</li></ul></div>
+					<div class="search-hint">站内信息搜索：</div>
+					<div id="search-container">
+						<form action="/e/search/index.php" method="post" name="searchform" id="searchform">
+							<input name="keyboard" type="text" size="22" id="keyboard" class="search-zoomer"/>
+							<input type="hidden" name="show" value="title" />
+							<input type="hidden" name="tempid" value="1" />
+							<input type="image" class="search-button" src="/skin/default/images/search.gif" />
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="clear-both"></div>
+			<div id="focus-bar-container">
+				<div id="focus1">
+					<div id="focus1-title"><a href="/tech-center/core-techs/"><img src="/skin/default/images/focus1-bg.gif"/></a></div>
+					<div class="focus-content">
+						<ul>
+							<li>
+								<img src="/skin/default/images/index-system-images/elearning.png"/>
+								<p><strong><a href="/tech-center/core-techs/book-e-making-platform.html">图书数字化制作平台</a></strong></p>
+								<p>针对语言学习图书，采用新模式、新技术，高效率制作数字化Flash，让语言学习生动有趣</p>
+							</li>
+						
+							<li>
+								<img src="/skin/default/images/index-system-images/etesting.png"/>
+								<p><strong><a href="/tech-center/core-techs/e-testing.html">E-testing数字化考试平台</a></strong></p>
+								<p>采用XML试题封装技术，具有题库管理和动态生成功能，全仿真在线练习、考试，建立全新的用户体验</p>
+							</li>
+						
+							<li>
+								<img src="/skin/default/images/index-system-images/handwrite.png"/>
+								<p><strong><a href="/tech-center/core-techs/hanzi-desc-tech.html">汉字字形描述技术</a></strong></p>
+								<p>使用笔段网格表示汉字字形骨架，可输入任何汉字，包括正字、错字、异体字、怪字，可比对字形的异同</p>
+							</li>
+							
+							<li>
+								<img src="/skin/default/images/index-system-images/easy.png"/>
+								<p><strong><a href="/tech-center/core-techs/article-grading.html">非母语汉语作文计算机评测</a></strong></p>
+								<p>采用数字墨水技术，建立计算机评分模型，使作文评分更客观，更高效</p>
+							</li>
+							
+							<li>
+								<img src="/skin/default/images/index-system-images/hanzi.png"/>
+								<p><strong><a href="/tech-center/core-techs/hanzi-auto-grading.html">汉字书写自动评判技术</a></strong></p>
+								<p>通过汉字字形结构评判技术，对用户在线书写的汉字进行评判，反馈书写汉字在笔画、部件和结构等方面的问题</p>
+							</li>
+						</ul>
+						<p class="index-more"><a href="/tech-center/core-techs/">更多...</a></p>
+					</div>
+				</div>	
+				<div id="focus2">
+					<div id="focus2-title"><a href="/tech-center/digital-resource/"><img src="/skin/default/images/focus2-bg.gif"/></a></div>
+					<div class="focus-content">
+						<ul>
+							<li>
+								<p><strong><a href="/tech-center/digital-resource/hanzi-info-resource-lib.html">汉字信息资源库</a></strong></p>
+								<p>包含汉字结构、书写、拼音、发音、笔画、字频统计、组词等信息</p>
+							</li>
+							<li>
+								<p><strong><a href="/tech-center/digital-resource/hanyu-words-info-resource-lib.html">汉语词汇信息资源库</a></strong></p>
+								<p>包括词频统计、成语词典、HSK等级词汇、翻译、拼音、发音等信息</p>
+							</li>
+							<li>
+								<p><strong><a href="http://202.112.195.192:8060/hsk/login.asp">留学生高等作文语料库</a></strong></p>
+								<p>包括留学生作文1万余篇，每篇标注字、词、句、篇章等偏误信息</p>
+							</li>
+							<li>
+								<p><strong><a href="/online-systems/primary-students-hand-writing-resource.html">中国小学生、外国学生手写汉字资源库</a></strong></p>
+								<p>包括中国大规模小学生汉字书写语料库，留学生书写汉字语料库</p>
+							</li>
+						</ul>
+						<p class="index-more"><a href="/tech-center/digital-resource/">更多...</a></p>
+						<p class="text-align-center"><img src="/skin/default/images/focus-image2.gif"/></p>
+					</div>
+				</div>	
+				<div id="focus3">
+					<div id="focus3-title"><a href="/online-systems/"><img src="/skin/default/images/focus3-bg.gif"/></a></div>
+					<div class="focus-content">
+						<ul>
+							<li>
+								<p><strong><a href="/online-systems/hsk-language-lib-indexing-system.html">HSK中介语料库检索系统</a></strong></p>
+								<p>提供非母语写作真实语料的检索</p>
+							</li>
+							<li>
+								<p><strong><a href="/online-systems/hsk-pretesting-system.html">HSK考试考前模拟</strong></p>
+								<p>针对HSK考生提供考前模拟训练</p>
+							</li>
+							<li>
+								<p><strong><a href="/online-systems/primary-students-hand-writing-resource.html">小学生手写汉字语料库</strong></p>
+								<p>真实小学生汉字手写笔迹的查询</p>
+							</li>
+							<li>
+								<p><strong><a href="/online-systems/study-hanzi-with-me.html">跟我学汉字</a></strong></p>
+								<p>为初学者提供汉字卡片教学和互动练习</p>
+							</li>
+							<li>
+								<p><strong><a href="/online-systems/study-pinyin-with-me.html">跟我学拼音</a></strong></p>
+								<p>为初学者提供拼音查询和互动练习</p>
+							</li>
+							<li>
+								<p><strong><a href="/tech-center/core-techs/hanzi-auto-grading.html">跟我写汉字</a></strong></p>
+								<p>汉字书写正确性判定</p>
+							</li>
+							<li>
+								<p><strong><a href="/online-systems/hanyu-difficulty-system.html">汉语易错字辨析</a></strong></p>
+								<p>按照统计与规则属性，对易错字进行差错，纠正</p>
+							</li>
+						</ul>
+						<p class="index-more"><a href="/online-systems/">更多...</a></p>
+					</div>
+				</div>	
+				<div id="focus4">
+					<div id="focus4-title"><a href="/downloads/download-tools/"><img src="/skin/default/images/focus4-bg.gif"/></a></div>
+					<div class="focus-content">
+						<ul>
+							<li>
+<p><a href="/downloads/download-tools/52.html" title="语料库检索工具"><strong>语料库检索工具</strong></a></p>
+<p>可以在自定义语料中按表达式检索字符。</p>
+</li><li>
+<p><a href="/downloads/download-tools/26.html" title="汉语词频统计工具"><strong>汉语词频统计工具</strong></a></p>
+<p>在语料中统计带有结构信息的词频</p>
+</li><li>
+<p><a href="/downloads/download-tools/27.html" title="汉字笔顺查询软件"><strong>汉字笔顺查询软件</strong></a></p>
+<p>支持查询所有汉字的笔顺信息以及给出动态书写过程</p>
+</li><li>
+<p><a href="/downloads/download-tools/28.html" title="汉语拼音学习软件"><strong>汉语拼音学习软件</strong></a></p>
+<p>提供汉语拼音初级学者便捷的拼音发音学习与查询</p>
+</li><li>
+<p><a href="/downloads/download-tools/29.html" title="快乐学汉字"><strong>快乐学汉字</strong></a></p>
+<p>为汉字初学者提供生动活泼的卡片式学习以及互动练习</p>
+</li><li>
+<p><a href="/downloads/download-tools/30.html" title="汉语拼音标注工具"><strong>汉语拼音标注工具</strong></a></p>
+<p>对输入汉语文本，自动进行拼音标注</p>
+</li>						</ul>
+						<p class="index-more"><a href="/downloads/download-tools/">更多...</a></p>
+					</div>
+				</div>
+				<div class="clear-both"></div>
+			</div>
+			<div class="clear-both"></div>
+		</div><!-- EOF:page container -->
+		<!--BOF:Footer-->
+<div id="footer-container">
+	<div id="footer">
+		<div id="footer-exchange-links">
+			<strong>友情链接：</strong>
+			<a href="http://www.blcu.edu.cn/" target="_blank" rel="nofollow">北京语言大学</a> | 
+			<a href="http://www.blcu.edu.cn/cis/" target="_blank" rel="nofollow">北京语言大学信息科学学院</a> | 
+			<a href="http://clip.blcu.edu.cn/" target="_blank" rel="nofollow">语言信息处理研究所</a> | 
+			<a href="http://www.hanban.org/" target="_blank" rel="nofollow">国家汉办</a>|
+                        <a href="http://www.hwjyw.com/" target="_blank" rel="nofollow">中国华文教育网</a>
+		</div>
+		<div id="footer-quick-links">
+			<a href="/">网站首页</a> | 
+			<a href="/content/privacy.html">隐私条款</a> | 
+			<a href="/content/contact-us.html">联系我们</a> | 
+			<a href="/content/legal.html">免责声明</a> | 
+			<a href="/content/links.html">友情链接</a> | 
+			<a href="/e/wap/" target="_blank">WAP</a>
+        </div>
+        <div id="footer-copyright"> 
+			地址:北京市海淀区学院路15号&nbsp;邮政编码:100083&nbsp;Email:edxun@126.com&nbsp;电话:010-82300316<br/>
+			版权所有 &copy; 2006-2010&nbsp; 北京语言大学&nbsp;Copyright Since 2006. Powered by <a href="http://www.royotech.com/" target="_blank" title="北京网站建设"><img alt="北京网站建设" src="http://www.royotech.com/royotech_black_transparent.gif"/></a>
+        </div>
+	</div>
+</div>
+<!-- EOF:Footer -->
+
+	</body>
+</html>

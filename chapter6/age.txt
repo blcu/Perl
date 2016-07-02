@@ -1,0 +1,6 @@
+Lingkar,26
+Klara,27
+Aurora,24
+Cathy,26
+Evelyn,24
+
